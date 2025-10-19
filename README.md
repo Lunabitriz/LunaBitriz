@@ -1,12 +1,12 @@
 <!-- Header: imagem da capa -->
-<div align="center">
+<!-- <div align="center">
   <img 
     src="/imgs/city-cover-readme.gif" 
     alt="Welcome" 
     width="100%" 
     style="border-radius: 4px"
   />
-</div>
+</div> -->
 
 <!-- Introdução -->
 <h2 align="center">Hi there! 👋 I'm Luna Beatriz</h2>
