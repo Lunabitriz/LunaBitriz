@@ -36,8 +36,10 @@
   alt="coding-gif" 
   width="344" 
   src="imgs/menhera-hi.gif" 
-  style="margin-right: 20px; filter: saturate(119%); z-index: 9999"
+  style="margin-right: 20px; filter: saturate(119%);"
 />
+
+<div>
 
 ## 💫 Sobre mim
 
@@ -46,6 +48,8 @@
 - 🔧 Trabalhando com **JavaScript**, **TypeScript**, **Python** e outras tecnologias  
 - 🎨 Experiência com Design, UX/UI Design e prototipação de interfaces  
 - ✨ Apaixonada por clean code, UX e café ☕  
+
+</div>
 
 <br/>
 
