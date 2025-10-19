@@ -31,8 +31,6 @@
 <br/>
 
 <!-- SESSÃO: 💫 Sobre mim -->
-<div>
-
 ## 💫 Sobre mim
 <br/>
 
@@ -49,8 +47,6 @@
 - 🔧 Trabalhando com **JavaScript**, **TypeScript**, **Python** e outras tecnologias  
 - 🎨 Experiência com Design, UX/UI Design e prototipação de interfaces  
 - ✨ Apaixonada por clean code, UX e café ☕  
-
-</div>
 
 <br/>
 
@@ -162,6 +158,6 @@
     style="margin-bottom: 8px"
   />
 
-  **Obrigado por visitar meu perfil!**  
+  **Obrigada por visitar meu perfil!**  
   **Sinta-se à vontade para explorar meus repositórios e se conectar comigo!** ✨
 </div>
