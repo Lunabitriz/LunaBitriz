@@ -157,7 +157,7 @@
     width="128"
   />
 
-  <br/>
+  <br/><br/>
 
   **Obrigada por visitar meu perfil!**  
   **Sinta-se à vontade para explorar meus repositórios e se conectar comigo!** ✨
