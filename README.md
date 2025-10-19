@@ -33,8 +33,7 @@
 <!-- SESSÃO: 💫 Sobre mim -->
 <div>
 
-<br/>
-<br/>
+## 💫 Sobre mim
 <br/>
 
 <img 
@@ -44,12 +43,6 @@
   src="imgs/menhera-hi.gif" 
   style="margin-right: 20px; filter: saturate(119%);"
 />
-
-</div>
-
-<div>
-
-## 💫 Sobre mim
 
 - 💻 **Full Stack Developer** | Web & App Development  
 - 🌱 Focada em desenvolver minhas habilidades de programação  
