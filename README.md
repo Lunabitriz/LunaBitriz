@@ -52,12 +52,16 @@
 
 </div>
 
-<br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 <!-- SESSÃO: 🔗 Contatos -->
-### 🔗 Conecte-se comigo
+<!-- ### 🔗 Conecte-se comigo -->
+<h3 align="right">🔗 Conecte-se comigo</h3>
 
-<p align="start">
+<p align="right">
 
   <!-- Gmail -->
   <a href="mailto:lunabitriz@gmail.com">
