@@ -31,6 +31,21 @@
 <br/>
 
 <!-- SESSÃO: 💫 Sobre mim -->
+<div>
+
+<br/>
+<br/>
+<br/>
+
+<img 
+  align="right" 
+  alt="coding-gif" 
+  width="344" 
+  src="imgs/menhera-hi.gif" 
+  style="margin-right: 20px; filter: saturate(119%);"
+/>
+
+</div>
 
 <div>
 
@@ -43,14 +58,6 @@
 - ✨ Apaixonada por clean code, UX e café ☕  
 
 </div>
-
-<img 
-  align="right" 
-  alt="coding-gif" 
-  width="344" 
-  src="imgs/menhera-hi.gif" 
-  style="margin-right: 20px; filter: saturate(119%);"
-/>
 
 <br/>
 
