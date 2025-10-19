@@ -27,9 +27,8 @@
   🌟 Atualmente estudo <strong>Desenvolvimento de Sistemas pelo SENAI</strong>, mas minha curiosidade por tecnologia vem de muito antes. Sou apaixonada por aprender coisas novas e estou focada em aprimorar minhas habilidades em programação, explorando diferentes áreas da TI e me mantendo sempre atualizada com as novas tecnologias que surgem pelo caminho.
 </p>
 
-<div 
-  style="width: 100%; height: 1px; background-color: #d6d6d6; margin: 48px 0;"
-></div>
+<br/>
+<br/>
 
 <!-- SESSÃO: 💫 Sobre mim -->
 <img 
@@ -37,7 +36,7 @@
   alt="coding-gif" 
   width="344" 
   src="imgs/menhera-hi.gif" 
-  style="margin-right: 20px; filter: saturate(119%);"
+  style="margin-right: 20px; filter: saturate(119%); z-index: 9999"
 />
 
 ## 💫 Sobre mim
@@ -51,7 +50,7 @@
 <br/>
 
 <!-- SESSÃO: 🔗 Contatos -->
-#### 🔗 Conecte-se comigo
+### 🔗 Conecte-se comigo
 
 <p align="start">
 
@@ -104,9 +103,7 @@
 
 </p>
 
-<div 
-  style="width: 100%; height: 1px; background-color: #d6d6d6; margin: 48px 0;"
-></div>
+<br/>
 
 <!-- SESSÃO: ⚡ Skills & Tools -->
 ## ⚡ Skills & Tools
@@ -131,9 +128,7 @@
 ### Tools & IDEs
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,git,figma" />
 
-<div 
-  style="width: 100%; height: 1px; background-color: #d6d6d6; margin: 48px 0;"
-></div>
+---
 
 <!-- SESSÃO: 🌱 GitHub Status -->
 <h3 align="center">🌱 GitHub Status</h3>
@@ -151,9 +146,7 @@
   />
 </div>
 
-<div 
-  style="width: 100%; height: 1px; background-color: #d6d6d6; margin: 48px 0;"
-></div>
+---
 
 <!-- SESSÃO: 🌸 Footer -->
 <div align="center">
