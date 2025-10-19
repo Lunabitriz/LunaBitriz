@@ -154,10 +154,9 @@
   <img 
     src="imgs/menhera.gif" 
     alt="Footer" 
-    width="128"
+    width="128" 
+    style="margin-bottom: 12px"
   />
-
-  <br/><br/>
 
   **Obrigada por visitar meu perfil!**  
   **Sinta-se à vontade para explorar meus repositórios e se conectar comigo!** ✨
