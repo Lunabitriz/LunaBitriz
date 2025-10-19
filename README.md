@@ -128,7 +128,7 @@
 ### Tools & IDEs
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,git,figma" />
 
----
+##
 
 <!-- SESSÃO: 🌱 GitHub Status -->
 <h3 align="center">🌱 GitHub Status</h3>
@@ -146,7 +146,7 @@
   />
 </div>
 
----
+##
 
 <!-- SESSÃO: 🌸 Footer -->
 <div align="center">
