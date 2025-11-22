@@ -111,7 +111,7 @@
 
 <!-- Linguagens -->
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=javascript,ts,python,c,cpp,java" />
+<img src="https://skillicons.dev/icons?i=javascript,ts,python,c,cpp,java,php" />
 
 <!-- Marcação e Estilo -->
 ### Markup & Styling
@@ -123,7 +123,7 @@
 
 <!-- Bancos de Dados -->
 ### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb" />
 
 <!-- Ferramentas -->
 ### Tools & IDEs
