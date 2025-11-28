@@ -119,7 +119,7 @@
 
 <!-- Frameworks -->
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nestjs,prisma,tailwind,bootstrap,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,nestjs,prisma,nodejs,tailwind,bootstrap,jquery" />
 
 <!-- Bancos de Dados -->
 ### Databases & Cloud
