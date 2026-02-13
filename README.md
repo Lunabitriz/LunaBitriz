@@ -42,32 +42,29 @@
 <!-- SESSÃO: 🔗 Contatos -->
 ### 🔗 Conecte-se comigo
 
-<p align="start">
+<div align="start">
 
   <!-- Gmail -->
   <a href="mailto:lunabitriz@gmail.com">
     <img 
-      src="https://img.shields.io/badge/Gmail-E02947.svg?style=for-the-badge&logo=gmail&logoColor=white" 
-      alt="Gmail"
-      style="border-radius: 4px"
+      src="imgs/button-imgs/btn-email.svg" 
+      alt="Gmail" height="28px"
     />
   </a>
 
   <!-- Instagram -->
   <a href="https://instagram.com/lunabitriz.dev">
     <img 
-      src="https://img.shields.io/badge/Instagram-D34A63.svg?style=for-the-badge&logo=instagram&logoColor=white" 
-      alt="Instagram"
-      style="border-radius: 4px"
+      src="imgs/button-imgs/btn-instagram.svg" 
+      alt="Instagram" height="28px"
     />
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/lunabitriz">
     <img 
-      src="https://img.shields.io/badge/LinkedIn-0A7EC2.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn"
-      style="border-radius: 4px"
+      src="imgs/button-imgs/btn-linkedin.svg" 
+      alt="LinkedIn" height="28px"
     />
   </a>
 
@@ -76,22 +73,20 @@
   <!-- Telegram -->
   <a href="https://t.me/lunabitriz">
     <img 
-      src="https://img.shields.io/badge/Telegram-20A4F3.svg?style=for-the-badge&logo=telegram&logoColor=white" 
-      alt="Telegram"
-      style="border-radius: 4px"
+      src="imgs/button-imgs/btn-telegram.svg" 
+      alt="Telegram" height="28px"
     />
   </a>
 
   <!-- WhatsApp -->
   <a href="https://w.app/usydro">
     <img 
-      src="https://img.shields.io/badge/WhatsApp-23D16C.svg?style=for-the-badge&logo=whatsapp&logoColor=white" 
-      alt="WhatsApp"
-      style="border-radius: 4px"
+      src="imgs/button-imgs/btn-whatsapp.svg" 
+      alt="Whatsapp" height="28px"
     />
   </a>
 
-</p>
+</div>
 
 <br/>
 
