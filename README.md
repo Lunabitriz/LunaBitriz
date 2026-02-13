@@ -99,8 +99,6 @@
 <!-- SESSÃO: ⚡ Skills & Tools -->
 ## ⚡ Skills & Tools
 
----
-
 ### Main Stack
 <img src="https://skillicons.dev/icons?i=react,nestjs,ts,postgres,prisma,nodejs" />
 
