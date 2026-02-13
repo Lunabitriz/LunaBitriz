@@ -45,7 +45,7 @@
 <div align="start">
 
   <!-- Gmail -->
-  <a href="mailto:lunabitriz@gmail.com">
+  <a href="mailto:lunabitriz@gmail.com" title="Gmail">
     <img 
       src="imgs/button-imgs/btn-email.svg" 
       alt="Gmail" height="28px"
@@ -53,15 +53,15 @@
   </a>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/lunabitriz.dev">
+  <a href="https://instagram.com/lunabitriz.dev" title="Instagram">
     <img 
       src="imgs/button-imgs/btn-instagram.svg" 
-      alt="Instagram" height="28px"
+      alt="Instagram" height="28px" hspace="2"
     />
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/lunabitriz">
+  <a href="https://www.linkedin.com/in/lunabitriz" title="LinkedIn">
     <img 
       src="imgs/button-imgs/btn-linkedin.svg" 
       alt="LinkedIn" height="28px"
@@ -71,7 +71,7 @@
   <br/>
 
   <!-- Telegram -->
-  <a href="https://t.me/lunabitriz">
+  <a href="https://t.me/lunabitriz" title="Telegram">
     <img 
       src="imgs/button-imgs/btn-telegram.svg" 
       alt="Telegram" height="28px"
@@ -79,17 +79,16 @@
   </a>
 
   <!-- WhatsApp -->
-  <a href="https://w.app/usydro">
+  <a href="https://w.app/usydro" title="Whatsapp">
     <img 
       src="imgs/button-imgs/btn-whatsapp.svg" 
-      alt="Whatsapp" height="28px"
+      alt="Whatsapp" height="28px" hspace="2"
     />
   </a>
 
 </div>
 
 <br/>
-
 
 <!-- SESSÃO: ⚡ Skills & Tools -->
 ## ⚡ Skills & Tools
