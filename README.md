@@ -49,24 +49,21 @@
     <img 
       src="imgs/button-imgs/btn-email.svg" 
       alt="Gmail" height="28px"
-    />
-  </a>
+    /></a>
 
   <!-- Instagram -->
   <a href="https://instagram.com/lunabitriz.dev" title="Instagram">
     <img 
       src="imgs/button-imgs/btn-instagram.svg" 
       alt="Instagram" height="28px" hspace="2"
-    />
-  </a>
+    /></a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/lunabitriz" title="LinkedIn">
     <img 
       src="imgs/button-imgs/btn-linkedin.svg" 
       alt="LinkedIn" height="28px"
-    />
-  </a>
+    /></a>
 
   <br/>
 
@@ -75,16 +72,14 @@
     <img 
       src="imgs/button-imgs/btn-telegram.svg" 
       alt="Telegram" height="28px"
-    />
-  </a>
+    /></a>
 
   <!-- WhatsApp -->
   <a href="https://w.app/usydro" title="Whatsapp">
     <img 
       src="imgs/button-imgs/btn-whatsapp.svg" 
       alt="Whatsapp" height="28px" hspace="2"
-    />
-  </a>
+    /></a>
 
 </div>
 
