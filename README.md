@@ -34,7 +34,7 @@
 - 💻 **Full Stack Developer** | React • NestJS • TypeScript
 - 🏗️ Criando aplicações modernas com **APIs REST** e banco de dados
 - 🌱 Em constante evolução, explorando novas tecnologias e boas práticas
-- 🎨  Prototipação e UI/UX Design com Figma
+- 🎨 Prototipação e UI/UX Design com Figma
 - ✨ Apaixonada por **clean code** e café ☕  
 
 <br/>
@@ -113,17 +113,12 @@
 <h3 align="center">🌱 GitHub Status</h3>
 
 <div align="center">
-  <!-- <img 
-    width="398" 
-    src="https://github-readme-stats.vercel.app/api?username=lunabitriz&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"
-    alt="GitHub Stats"
-  /> -->
-  <img 
-    width="420" 
-    src="https://nirzak-streak-stats.vercel.app/?user=lunabitriz&theme=nord&hide_border=false" 
-    alt="GitHub Streak Stats"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lunabitriz&theme=nord&hide_border=true" />
 </div>
+
+<!-- <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lunabitriz&theme=nord&hide_border=true&area=true" width="100%"/>
+</div> -->
 
 ##
 
