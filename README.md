@@ -1,18 +1,18 @@
 <!-- Introdução -->
-<h2 align="center">Hi there! 👋 I'm Luna Beatriz</h2>
+<h2 align="start">Hi there! 👋 I'm Luna Beatriz</h2>
 
 <!-- Animação com texto digitando -->
-<p align="center">
+<p align="start">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=32&pause=1000&color=DB6B80&center=true&vCenter=true&random=false&width=1200&lines=%F0%9F%92%BB+Full+Stack+Developer+in+Formation;+%F0%9F%9A%80+React+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;+%E2%98%95+Building+Smart+and+Well-Structured+Systems" 
+      src="https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=28&pause=1000&color=DB6B80&center=false&vCenter=true&random=false&width=1200&lines=%F0%9F%92%BB+Full+Stack+Developer+in+Formation;+%F0%9F%9A%80+React+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;+%E2%98%95+Building+Smart+and+Well-Structured+Systems" 
       alt="Typing Animation"
     />
   </a>
 </p>
 
 <!-- Descrição pessoal -->
-<p align="center" style="padding: 0 48px;">
+<p align="start" style="padding: 0 48px;">
   🌟 Desenvolvedora Full Stack em formação, cursando <strong>Desenvolvimento de Sistemas pelo SENAI </strong> e o <strong>Bacharelado em Engenharia de Software</strong>, com experiência em projetos reais. Apaixonada por tecnologia e por aprender coisas novas, focada em aprimorar minhas habilidades em programação e em criar soluções eficientes, explorando novas áreas da TI e aplicando práticas modernas, sempre <strong>transformando café em soluções inteligentes</strong>.
 </p>
 
