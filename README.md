@@ -26,7 +26,7 @@
 <img 
   align="right" 
   alt="coding-gif" 
-  width="352" 
+  width="330" 
   src="imgs/menhera-hi.gif" 
   style="margin: 0 20px 0 40px; filter: saturate(119%);"
 />
