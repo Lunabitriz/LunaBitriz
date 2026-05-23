@@ -23,8 +23,8 @@
 ## 💫 Sobre mim
 <br/>
 
-<img src="imgs/about_me_code.svg" width="500" alt="My JSON Profile" style="vertical-align: bottom; margin-right: 8px;"/>
-<img src="imgs/menhera-hi.gif" width="344" alt="coding-gif" style="vertical-align: bottom; filter: saturate(119%);" align="right" />
+<img src="imgs/about_me_code.svg" width="500" alt="My JSON Profile" style="vertical-align: bottom; margin-right: 10px;" />
+<img src="imgs/menhera-hi.gif" width="344" alt="coding-gif" style="vertical-align: bottom; filter: saturate(119%);" />
 
 <br/>
 
