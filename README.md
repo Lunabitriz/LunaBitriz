@@ -28,52 +28,6 @@
 
 <br/>
 
-<!-- SESSÃO: 🔗 Contatos -->
-### 🔗 Conecte-se comigo
-
-<div align="start">
-
-  <!-- Gmail -->
-  <a href="mailto:lunabitriz@gmail.com" title="Gmail">
-    <img 
-      src="imgs/button-imgs/btn-email.svg" 
-      alt="Gmail" height="28px"
-    /></a>
-
-  <!-- Instagram -->
-  <a href="https://instagram.com/lunabitriz.dev" title="Instagram">
-    <img 
-      src="imgs/button-imgs/btn-instagram.svg" 
-      alt="Instagram" height="28px" hspace="2"
-    /></a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/lunabitriz" title="LinkedIn">
-    <img 
-      src="imgs/button-imgs/btn-linkedin.svg" 
-      alt="LinkedIn" height="28px"
-    /></a>
-
-  <br/>
-
-  <!-- Telegram -->
-  <a href="https://t.me/lunabitriz" title="Telegram">
-    <img 
-      src="imgs/button-imgs/btn-telegram.svg" 
-      alt="Telegram" height="28px"
-    /></a>
-
-  <!-- WhatsApp -->
-  <a href="https://w.app/usydro" title="Whatsapp">
-    <img 
-      src="imgs/button-imgs/btn-whatsapp.svg" 
-      alt="Whatsapp" height="28px" hspace="2"
-    /></a>
-
-</div>
-
-<br/>
-
 <!-- SESSÃO: ⚡ Skills & Technologies -->
 ## ⚡ Skills & Technologies
 
@@ -210,4 +164,45 @@
   **Sinta-se à vontade para explorar meus projetos e se conectar comigo!** ✨
 </div>
 
+<!-- SESSÃO: 🔗 Contatos -->
 
+<div align="center">
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/lunabitriz.dev" title="Instagram">
+    <img 
+      src="imgs/button-imgs/btn-instagram.svg" 
+      alt="Instagram" height="28px" hspace="2"
+    /></a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/lunabitriz" title="LinkedIn">
+    <img 
+      src="imgs/button-imgs/btn-linkedin.svg" 
+      alt="LinkedIn" height="28px"
+    /></a>
+
+  <!-- Telegram -->
+  <a href="https://t.me/lunabitriz" title="Telegram">
+    <img 
+      src="imgs/button-imgs/btn-telegram.svg" 
+      alt="Telegram" height="28px"
+    /></a>
+
+  <!-- Gmail -->
+  <a href="mailto:lunabitriz@gmail.com" title="Gmail">
+    <img 
+      src="imgs/button-imgs/btn-email.svg" 
+      alt="Gmail" height="28px"
+    /></a>
+
+  <br/>
+
+  <!-- WhatsApp -->
+  <a href="https://w.app/usydro" title="Whatsapp">
+    <img 
+      src="imgs/button-imgs/btn-whatsapp.svg" 
+      alt="Whatsapp" height="28px" hspace="2"
+    /></a>
+
+</div>
