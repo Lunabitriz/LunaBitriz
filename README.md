@@ -4,6 +4,8 @@
 <!-- Typing text animation -->
 <a href="https://git.io/typing-svg"><kbd>&emsp;&emsp;<img src="https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=18&pause=1000&color=DB6B80&center=false&vCenter=true&random=false&width=550&lines=%F0%9F%92%BB+Full+Stack+Developer+in+Formation;+%F0%9F%9A%80+React+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;+%E2%98%95+Building+Smart+and+Well-Structured+Systems" alt="Typing Animation" /></kbd></a>
 
+<br/>
+
 <!-- Personal description -->
 <p align="start" style="padding: 0 48px;">
   🌟 Full Stack Developer in training, studying <strong>Systems Development at SENAI</strong> and pursuing a <strong>Bachelor's Degree in Software Engineering</strong>, with experience in real-world projects. Passionate about technology and learning new things, focused on improving my programming skills and creating efficient solutions, exploring new areas of IT and applying modern practices, always <strong>turning coffee into smart solutions</strong>.
