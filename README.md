@@ -26,7 +26,7 @@
 <img 
   align="right" 
   alt="coding-gif" 
-  width="372" 
+  width="352" 
   src="imgs/menhera-hi.gif" 
   style="margin: 0 20px 0 40px; filter: saturate(119%);"
 />
@@ -57,6 +57,8 @@
 <!-- SECTION: ⚡ Skills & Technologies -->
 
 ## ⚡ Skills & Technologies
+
+<br/>
 
 <table>
   <!-- Main Stack -->
