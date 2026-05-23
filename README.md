@@ -85,27 +85,113 @@
 
 <br/>
 
-<!-- SESSÃO: ⚡ Skills & Tools -->
-## ⚡ Skills & Tools
+<!-- SESSÃO: ⚡ Skills & Technologies -->
+## ⚡ Skills & Technologies
 
-### Main Stack
-<img src="https://skillicons.dev/icons?i=react,nestjs,ts,postgres,prisma,nodejs" />
+<table>
+  <!-- Main Stack -->
+  <tr>
+    <td valign="middle"><small>MAIN STACK</small></td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=react" width="28" height="28" title="React" style="display: inline-block; vertical-align: middle;" />
+    </td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="28" height="28" title="NestJS" style="display: inline-block; vertical-align: middle;" />
+    </td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=ts" width="28" height="28" title="TypeScript" style="display: inline-block; vertical-align: middle;" />
+    </td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=postgres" width="28" height="28" title="PostgreSQL" style="display: inline-block; vertical-align: middle;" />
+    </td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=prisma" width="28" height="28" title="Prisma" style="display: inline-block; vertical-align: middle;" />
+    </td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="28" height="28" title="Node.js" style="display: inline-block; vertical-align: middle;" />
+    </td>
+  </tr>
 
-<!-- Linguagens -->
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=javascript,java,c,cpp,python,php" />
+  <!-- Linguagens -->
+  <tr>
+    <td valign="middle"><small>LANGUAGES</small></td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=js" width="28" height="28" title="JavaScript" style="display: inline-block; vertical-align: middle;" />
+    </td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=java" width="28" height="28" title="Java" style="display: inline-block; vertical-align: middle;" />
+    </td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=c" width="28" height="28" title="C" style="display: inline-block; vertical-align: middle;" />
+    </td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=cpp" width="28" height="28" title="C++" style="display: inline-block; vertical-align: middle;" />
+    </td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=python" width="28" height="28" title="Python" style="display: inline-block; vertical-align: middle;" />
+    </td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=php" width="28" height="28" title="PHP" style="display: inline-block; vertical-align: middle;" />
+    </td>
+  </tr>
+  
+  <!-- Frontend & Styling -->
+  <tr>
+    <td valign="middle"><small>FRONTEND & STYLING</small></td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=html" width="28" height="28" title="HTML5" style="display: inline-block; vertical-align: middle;" />
+    </td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=css" width="28" height="28" title="CSS3" style="display: inline-block; vertical-align: middle;" />
+    </td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="28" height="28" title="Tailwind CSS" style="display: inline-block; vertical-align: middle;" />
+    </td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="28" height="28" title="Bootstrap" style="display: inline-block; vertical-align: middle;" />
+    </td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=jquery" width="28" height="28" title="jQuery" style="display: inline-block; vertical-align: middle;" />
+    </td>
+  </tr>
 
-<!-- Frontend & Styling -->
-### Frontend & Styling
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery" />
+  <!-- Bancos de Dados -->
+  <tr>
+    <td valign="middle"><small>DATABASES</small></td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=postgres" width="28" height="28" title="PostgreSQL" style="display: inline-block; vertical-align: middle;" />
+    </td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=mysql" width="28" height="28" title="MySQL" style="display: inline-block; vertical-align: middle;" />
+    </td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=supabase" width="28" height="28" title="Supabase" style="display: inline-block; vertical-align: middle;" />
+    </td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="28" height="28" title="MongoDB" style="display: inline-block; vertical-align: middle;" />
+    </td>
+  </tr>
 
-<!-- Bancos de Dados -->
-### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,mongodb" />
-
-<!-- Ferramentas -->
-### Tools & IDEs
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,git,figma" />
+  <!-- Ferramentas -->
+  <tr>
+    <td valign="middle"><small>TOOLS & IDEs</small></td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=vscode" width="28" height="28" title="Visual Studio Code" style="display: inline-block; vertical-align: middle;" />
+    </td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=pycharm" width="28" height="28" title="PyCharm" style="display: inline-block; vertical-align: middle;" />
+    </td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=postman" width="28" height="28" title="Postman" style="display: inline-block; vertical-align: middle;" />
+    </td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=git" width="28" height="28" title="Git" style="display: inline-block; vertical-align: middle;" />
+    </td>
+    <td align="center" style="text-align: center; vertical-align: middle;">
+      <img src="https://skillicons.dev/icons?i=figma" width="28" height="28" title="Figma" style="display: inline-block; vertical-align: middle;" />
+    </td>
+  </tr>
+</table>
 
 ##
 
@@ -113,7 +199,7 @@
 <h3 align="center">🌱 GitHub Status</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lunabitriz&theme=nord&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lunabitriz&theme=tokyonight&hide_border=true" />
 </div>
 
 <!-- <div align="center">
