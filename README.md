@@ -23,34 +23,8 @@
 ## 💫 Sobre mim
 <br/>
 
-<img 
-  align="right" 
-  alt="coding-gif" 
-  width="344" 
-  src="imgs/menhera-hi.gif" 
-  style="margin-right: 20px; filter: saturate(119%);"
-/>
-
-```json
-{
-  "profile": {
-    "name": "Luna Beatriz",
-    "title": "Full Stack Engineer",
-    "location": "Brazil",
-    "age": 19,
-  },
-  "technologies": {
-    "core": ["TypeScript", "React", "NestJS"],
-    "tools": ["Figma", "Postman"]
-  },
-  "coreCompetencies": [
-    "REST APIs & Databases",
-    "UI/UX Design (Figma)",
-    "Clean Code & SOLID",
-  ],
-  "passions": ["Studying", "Tech evolution", "Coffee"]
-}
-```
+<img src="imgs/about_me_code.svg" width="500" alt="My JSON Profile" style="vertical-align: bottom; margin-right: 8px;"/>
+<img src="imgs/menhera-hi.gif" width="344" alt="coding-gif" style="vertical-align: bottom; filter: saturate(119%);" align="right" />
 
 <br/>
 
@@ -235,3 +209,5 @@
   **Obrigada por visitar meu perfil!**  
   **Sinta-se à vontade para explorar meus projetos e se conectar comigo!** ✨
 </div>
+
+
