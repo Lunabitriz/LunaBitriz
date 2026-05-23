@@ -17,7 +17,6 @@
 </p>
 
 <br/>
-<br/>
 
 <!-- SECTION: 💫 About me -->
 ## 💫 About me
@@ -193,8 +192,10 @@
     style="margin-bottom: 12px"
   />
 
-**Thank you for visiting my profile!** <br/>
-**Feel free to explore my projects and connect with me!** ✨
+  <br/>
+  
+  **Thank you for visiting my profile!** <br/>
+  **Feel free to explore my projects and connect with me!** ✨
 
 </div>
 
