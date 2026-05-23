@@ -1,7 +1,7 @@
-<!-- Introdução -->
+<!-- Introduction -->
 <h2 align="start">Hi there! 👋 I'm Luna Beatriz</h2>
 
-<!-- Animação com texto digitando -->
+<!-- Typing text animation -->
 <p align="start">
   <a href="https://git.io/typing-svg">
     <img 
@@ -11,16 +11,16 @@
   </a>
 </p>
 
-<!-- Descrição pessoal -->
+<!-- Personal description -->
 <p align="start" style="padding: 0 48px;">
-  🌟 Desenvolvedora Full Stack em formação, cursando <strong>Desenvolvimento de Sistemas pelo SENAI </strong> e o <strong>Bacharelado em Engenharia de Software</strong>, com experiência em projetos reais. Apaixonada por tecnologia e por aprender coisas novas, focada em aprimorar minhas habilidades em programação e em criar soluções eficientes, explorando novas áreas da TI e aplicando práticas modernas, sempre <strong>transformando café em soluções inteligentes</strong>.
+  🌟 Full Stack Developer in training, studying <strong>Systems Development at SENAI</strong> and pursuing a <strong>Bachelor's Degree in Software Engineering</strong>, with experience in real-world projects. Passionate about technology and learning new things, focused on improving my programming skills and creating efficient solutions, exploring new areas of IT and applying modern practices, always <strong>turning coffee into smart solutions</strong>.
 </p>
 
 <br/>
 <br/>
 
-<!-- SESSÃO: 💫 Sobre mim -->
-## 💫 Sobre mim
+<!-- SECTION: 💫 About me -->
+## 💫 About me
 <br/>
 
 <img 
@@ -50,11 +50,12 @@
   ],
   "passions": ["Studying", "Tech evolution", "Coffee"]
 }
-```
+````
 
 <br/>
 
-<!-- SESSÃO: ⚡ Skills & Technologies -->
+<!-- SECTION: ⚡ Skills & Technologies -->
+
 ## ⚡ Skills & Technologies
 
 <table>
@@ -81,7 +82,8 @@
     </td>
   </tr>
 
-  <!-- Linguagens -->
+  <!-- Languages -->
+
   <tr>
     <td valign="middle"><small>LANGUAGES</small></td>
     <td align="center" style="text-align: center; vertical-align: middle;">
@@ -103,8 +105,9 @@
       <img src="https://skillicons.dev/icons?i=php" width="28" height="28" title="PHP" style="display: inline-block; vertical-align: middle;" />
     </td>
   </tr>
-  
+
   <!-- Frontend & Styling -->
+
   <tr>
     <td valign="middle"><small>FRONTEND & STYLING</small></td>
     <td align="center" style="text-align: center; vertical-align: middle;">
@@ -124,7 +127,8 @@
     </td>
   </tr>
 
-  <!-- Bancos de Dados -->
+  <!-- Databases -->
+
   <tr>
     <td valign="middle"><small>DATABASES</small></td>
     <td align="center" style="text-align: center; vertical-align: middle;">
@@ -141,7 +145,8 @@
     </td>
   </tr>
 
-  <!-- Ferramentas -->
+  <!-- Tools -->
+
   <tr>
     <td valign="middle"><small>TOOLS & IDEs</small></td>
     <td align="center" style="text-align: center; vertical-align: middle;">
@@ -164,7 +169,8 @@
 
 ##
 
-<!-- SESSÃO: 🌱 GitHub Status -->
+<!-- SECTION: 🌱 GitHub Status -->
+
 <h3 align="center">🌱 GitHub Status</h3>
 
 <p align="center">
@@ -175,7 +181,8 @@
 
 ##
 
-<!-- SESSÃO: 🌸 Footer -->
+<!-- SECTION: 🌸 Footer -->
+
 <div align="center">
   <img 
     src="imgs/menhera.gif" 
@@ -184,15 +191,17 @@
     style="margin-bottom: 12px"
   />
 
-  **Obrigada por visitar meu perfil!**  
-  **Sinta-se à vontade para explorar meus projetos e se conectar comigo!** ✨
+**Thank you for visiting my profile!** <br/>
+**Feel free to explore my projects and connect with me!** ✨
+
 </div>
 
-<!-- SESSÃO: 🔗 Contatos -->
+<!-- SECTION: 🔗 Contacts -->
 
 <div align="center">
 
   <!-- Instagram -->
+
   <a href="https://instagram.com/lunabitriz.dev" title="Instagram">
     <img 
       src="imgs/button-imgs/btn-instagram.svg" 
@@ -200,6 +209,7 @@
     /></a>
 
   <!-- LinkedIn -->
+
   <a href="https://www.linkedin.com/in/lunabitriz" title="LinkedIn">
     <img 
       src="imgs/button-imgs/btn-linkedin.svg" 
@@ -207,6 +217,7 @@
     /></a>
 
   <!-- Telegram -->
+
   <a href="https://t.me/lunabitriz" title="Telegram">
     <img 
       src="imgs/button-imgs/btn-telegram.svg" 
@@ -214,6 +225,7 @@
     /></a>
 
   <!-- Gmail -->
+
   <a href="mailto:lunabitriz@gmail.com" title="Gmail">
     <img 
       src="imgs/button-imgs/btn-email.svg" 
@@ -223,6 +235,7 @@
   <br/>
 
   <!-- WhatsApp -->
+
   <a href="https://w.app/usydro" title="Whatsapp">
     <img 
       src="imgs/button-imgs/btn-whatsapp.svg" 
