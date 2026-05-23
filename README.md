@@ -2,14 +2,7 @@
 <h2 align="start">Hi there! 👋 I'm Luna Beatriz</h2>
 
 <!-- Typing text animation -->
-<p align="start">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=28&pause=1000&color=DB6B80&center=false&vCenter=true&random=false&width=1200&lines=%F0%9F%92%BB+Full+Stack+Developer+in+Formation;+%F0%9F%9A%80+React+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;+%E2%98%95+Building+Smart+and+Well-Structured+Systems" 
-      alt="Typing Animation"
-    />
-  </a>
-</p>
+<a href="https://git.io/typing-svg"><kbd>&emsp;&emsp;<img src="https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=18&pause=1000&color=DB6B80&center=false&vCenter=true&random=false&width=550&lines=%F0%9F%92%BB+Full+Stack+Developer+in+Formation;+%F0%9F%9A%80+React+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;+%E2%98%95+Building+Smart+and+Well-Structured+Systems" alt="Typing Animation" /></kbd></a>
 
 <!-- Personal description -->
 <p align="start" style="padding: 0 48px;">
