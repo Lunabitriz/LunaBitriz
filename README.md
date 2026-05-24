@@ -172,7 +172,7 @@
 <p align="center">
   <img height="108em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lunabitriz&theme=tokyonight"/>
   <img  height="152em" src="https://github-readme-streak-stats.herokuapp.com/?user=lunabitriz&theme=tokyonight&hide_border=true" />
-  <img height="108em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lunabitriz&theme=tokyonight"/>
+  <img height="108em" src="imgs/most-used.svg"/>
 </p>
 
 ##
