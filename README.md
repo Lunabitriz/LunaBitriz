@@ -20,7 +20,7 @@
 <img 
   align="right" 
   alt="coding-gif" 
-  width="220" 
+  width="312" 
   src="imgs/menhera-hi.gif" 
   style="margin: 0 20px 0 40px; filter: saturate(119%);"
 />
@@ -30,6 +30,10 @@
 - 🌱 Constantly evolving, exploring new technologies and best practices
 - 🎨 Prototyping and UI/UX Design with Figma
 - ✨ Passionate about **clean code** and coffee ☕
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=.+%DC%81%E2%82%8A+%E2%8A%B9+.+%DC%81+%E2%9F%A1+%DC%81+.+%E2%8A%B9+%E2%82%8A+%DC%81.%E2%9D%80+%E2%8B%86;%E2%8A%B9+%E0%A3%AA%CB%96+%EF%B9%8F%F0%93%8A%9D%EF%B9%8F%F0%93%82%81%EF%B9%8F%EF%B9%8F%DC%81+%E2%8A%B9+%E0%A3%AA+%CB%96)](https://git.io/typing-svg)
 
 <br/>
 
@@ -90,7 +94,7 @@
   <!-- Frontend & Styling -->
 
   <tr>
-    <td valign="middle"><small>FRONTEND & STYLING</small></td>
+    <td valign="middle"><small>FRONTEND</small></td>
     <td align="center" style="text-align: center; vertical-align: middle;">
       <img src="https://skillicons.dev/icons?i=html" width="28" height="28" title="HTML5" style="display: inline-block; vertical-align: middle;" />
     </td>
