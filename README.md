@@ -25,26 +25,11 @@
   style="margin: 0 20px 0 40px; filter: saturate(119%);"
 />
 
-```json
-{
-  "profile": {
-    "name": "Luna Beatriz",
-    "title": "Full Stack Engineer",
-    "location": "Brazil",
-    "age": 19,
-  },
-  "technologies": {
-    "core": ["TypeScript", "React", "NestJS"],
-    "tools": ["Figma", "Postman"]
-  },
-  "coreCompetencies": [
-    "REST APIs & Databases",
-    "UI/UX Design (Figma)",
-    "Clean Code & SOLID",
-  ],
-  "passions": ["Studying", "Tech evolution", "Coffee"]
-}
-````
+- 💻 **Full Stack Developer** | React • NestJS • TypeScript
+- 🏗️ Building modern applications with **REST APIs** and databases
+- 🌱 Constantly evolving, exploring new technologies and best practices
+- 🎨 Prototyping and UI/UX Design with Figma
+- ✨ Passionate about **clean code** and coffee ☕
 
 <br/>
 
