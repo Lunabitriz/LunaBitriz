@@ -43,7 +43,7 @@
 ## Skills & Technologies
 
 ### Main Stack
-<img src="https://skillicons.dev/icons?i=react,nestjs,ts,postgres,prisma,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,nestjs,ts,prisma,nodejs" />
 
 <!-- Linguagens -->
 ### Programming Languages
