@@ -14,7 +14,7 @@
 <br/>
 
 <!-- SECTION: 💫 About me -->
-## 💫 About me
+## About me
 <br/>
 
 <img 
@@ -40,7 +40,7 @@
 
 <!-- SECTION: ⚡ Skills & Technologies -->
 
-## ⚡ Skills & Technologies
+## Skills & Technologies
 
 ### Main Stack
 <img src="https://skillicons.dev/icons?i=react,nestjs,ts,postgres,prisma,nodejs" />
@@ -49,13 +49,13 @@
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=javascript,java,c,cpp,python,php" />
 
-<!-- Frontend & Styling -->
-### Frontend & Styling
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery" />
+<!-- Frontend & Frameworks -->
+### Frontend & Frameworks
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,jquery,vuejs" />
 
 <!-- Bancos de Dados -->
-### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,mongodb" />
+### Databases & Infra
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,mongodb,aws,docker" />
 
 <!-- Ferramentas -->
 ### Tools & IDEs
@@ -65,7 +65,7 @@
 
 <!-- SECTION: 🌱 GitHub Status -->
 
-<h3 align="center">🌱 GitHub Status</h3>
+<h3 align="center">GitHub Status</h3>
 
 <p align="center">
   <img height="108em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lunabitriz&theme=tokyonight"/>
