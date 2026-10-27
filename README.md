@@ -7,11 +7,14 @@
 
 <br/>
 <br/>
+<br/>
 
 <!-- Personal description -->
 <p align="start" style="padding: 0 48px;">
   🌟 Full Stack Developer in training, studying <strong>Systems Development at SENAI</strong> and pursuing a <strong>Bachelor's Degree in Software Engineering</strong>, with experience in real-world projects. Passionate about technology and learning new things, focused on improving my programming skills and creating efficient solutions, exploring new areas of IT and applying modern practices, always <strong>turning coffee into smart solutions</strong>.
 </p>
+
+<br/>
 
 <!-- SECTION: 💫 About me -->
 ## About me
