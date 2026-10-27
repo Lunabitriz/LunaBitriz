@@ -7,7 +7,6 @@
 
 <br/>
 <br/>
-<br/>
 
 <!-- Personal description -->
 <p align="start" style="padding: 0 48px;">
