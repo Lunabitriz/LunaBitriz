@@ -19,7 +19,7 @@
 <img 
   align="right" 
   alt="coding-gif" 
-  width="284" 
+  width="348" 
   src="imgs/menhera-hi.gif" 
   style="margin: 0 20px 0 40px; filter: saturate(119%);"
 />
