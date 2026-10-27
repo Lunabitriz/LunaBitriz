@@ -1,9 +1,11 @@
-<!-- Introduction -->
-<h2 align="start">Hi there! 👋 I'm Luna Beatriz</h2>
+<!-- Cover Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="imgs/banners/banner_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="imgs/banners/banner_light.png">
+  <img alt="Luna Bitriz profile banner" src="imgs/banners/banner_light.png">
+</picture>
 
-<!-- Typing text animation -->
-<a href="https://git.io/typing-svg"><kbd>&emsp;&emsp;<img src="https://readme-typing-svg.demolab.com?font=Roboto,sans-serif&size=18&pause=1000&color=DB6B80&center=false&vCenter=true&random=false&width=550&lines=%F0%9F%92%BB+Full+Stack+Developer+in+Formation;+%F0%9F%9A%80+React+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;+%E2%98%95+Building+Smart+and+Well-Structured+Systems" alt="Typing Animation" /></kbd></a>
-
+<br/>
 <br/>
 
 <!-- Personal description -->
@@ -15,7 +17,6 @@
 
 <!-- SECTION: 💫 About me -->
 ## About me
-<br/>
 
 <img 
   align="right" 
