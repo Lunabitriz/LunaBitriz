@@ -62,7 +62,7 @@
   <img alt="Separador" src="/assets/dividers/light-divider.svg" width="800" align="top">
 </picture>
 
-### Main Stack
+<h3>Main Stack</h3>
 <img src="https://skillicons.dev/icons?i=react,nestjs,ts,prisma,nodejs" />
 
 <!-- Linguagens -->
