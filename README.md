@@ -43,7 +43,13 @@
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&&size=18&pause=1000&color=FFFFFF&width=435&lines=.+%DC%81%E2%82%8A+%E2%8A%B9+.+%DC%81+%E2%9F%A1+%DC%81+.+%E2%8A%B9+%E2%82%8A+%DC%81.%E2%9D%80+%E2%8B%86;%E2%8A%B9+%E0%A3%AA%CB%96+%EF%B9%8F%F0%93%8A%9D%EF%B9%8F%F0%93%82%81%EF%B9%8F%EF%B9%8F%DC%81+%E2%8A%B9+%E0%A3%AA+%CB%96)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&width=435&lines=.+%DC%81%E2%82%8A+%E2%8A%B9+.+%DC%81+%E2%9F%A1+%DC%81+.+%E2%8A%B9+%E2%82%8A+%DC%81.%E2%9D%80+%E2%8B%86;%E2%8A%B9+%E0%A3%AA%CB%96+%EF%B9%8F%F0%93%8A%9D%EF%B9%8F%F0%93%82%81%EF%B9%8F%EF%B9%8F%DC%81+%E2%8A%B9+%E0%A3%AA+%CB%96">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1F2328&width=435&lines=.+%DC%81%E2%82%8A+%E2%8A%B9+.+%DC%81+%E2%9F%A1+%DC%81+.+%E2%8A%B9+%E2%82%8A+%DC%81.%E2%9D%80+%E2%8B%86;%E2%8A%B9+%E0%A3%AA%CB%96+%EF%B9%8F%F0%93%8A%9D%EF%B9%8F%F0%93%82%81%EF%B9%8F%EF%B9%8F%DC%81+%E2%8A%B9+%E0%A3%AA+%CB%96">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1F2328&width=435&lines=.+%DC%81%E2%82%8A+%E2%8A%B9+.+%DC%81+%E2%9F%A1+%DC%81+.+%E2%8A%B9+%E2%82%8A+%DC%81.%E2%9D%80+%E2%8B%86;%E2%8A%B9+%E0%A3%AA%CB%96+%EF%B9%8F%F0%93%8A%9D%EF%B9%8F%F0%93%82%81%EF%B9%8F%EF%B9%8F%DC%81+%E2%8A%B9+%E0%A3%AA+%CB%96">
+  </picture>
+</a>
 
 <br/>
 
