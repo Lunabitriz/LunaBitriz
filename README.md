@@ -1,8 +1,8 @@
 <!-- Cover Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="imgs/banners/banner_dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="imgs/banners/banner_light.png">
-  <img alt="Luna Bitriz profile banner" src="imgs/banners/banner_light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banners/banner_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banners/banner_light.png">
+  <img alt="Luna Bitriz profile banner" src="assets/banners/banner_light.png">
 </picture>
 
 <br/>
@@ -14,13 +14,19 @@
 </p>
 
 <!-- SECTION: 💫 About me -->
-## About me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/headers/dark/about-me.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/headers/light/about-me.svg">
+  <img alt="About me" src="assets/headers/light/about-me.png" height="48">
+</picture>
+
+##
 
 <img 
   align="right" 
   alt="coding-gif" 
   width="348" 
-  src="imgs/menhera-hi.gif" 
+  src="assets/menhera-hi.gif" 
   style="margin: 0 20px 0 40px; filter: saturate(119%);"
 />
 
@@ -38,8 +44,13 @@
 <br/>
 
 <!-- SECTION: ⚡ Skills & Technologies -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/headers/dark/tech-stack.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/headers/light/tech-stack.svg">
+  <img alt="Skills & Technologies" src="assets/headers/light/tech-stack.png" height="48">
+</picture>
 
-## Skills & Technologies
+##
 
 ### Main Stack
 <img src="https://skillicons.dev/icons?i=react,nestjs,ts,prisma,nodejs" />
@@ -63,13 +74,20 @@
 ##
 
 <!-- SECTION: 🌱 GitHub Status -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/headers/dark/github-status.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/headers/light/github-status.svg">
+    <img alt="GitHub Status" src="assets/headers/light/github-status.svg" height="48">
+  </picture>
+</div>
 
-<h3 align="center">GitHub Status</h3>
+##
 
 <p align="center">
   <img height="108em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lunabitriz&theme=tokyonight"/>
   <img  height="152em" src="https://github-readme-streak-stats.herokuapp.com/?user=lunabitriz&theme=tokyonight&hide_border=true" />
-  <img height="108em" src="imgs/most-used.svg"/>
+  <img height="108em" src="assets/most-used.svg"/>
 </p>
 
 ##
@@ -78,7 +96,7 @@
 
 <div align="center">
   <img 
-    src="imgs/menhera.gif" 
+    src="assets/menhera.gif" 
     alt="Footer" 
     width="128" 
     style="margin-bottom: 12px"
@@ -99,7 +117,7 @@
 
   <a href="https://instagram.com/lunabitriz.dev" title="Instagram">
     <img 
-      src="imgs/button-imgs/btn-instagram.svg" 
+      src="assets/button-assets/btn-instagram.svg" 
       alt="Instagram" height="28px" hspace="2"
     /></a>
 
@@ -107,7 +125,7 @@
 
   <a href="https://www.linkedin.com/in/lunabitriz" title="LinkedIn">
     <img 
-      src="imgs/button-imgs/btn-linkedin.svg" 
+      src="assets/button-assets/btn-linkedin.svg" 
       alt="LinkedIn" height="28px"
     /></a>
 
@@ -115,7 +133,7 @@
 
   <a href="https://t.me/lunabitriz" title="Telegram">
     <img 
-      src="imgs/button-imgs/btn-telegram.svg" 
+      src="assets/button-assets/btn-telegram.svg" 
       alt="Telegram" height="28px"
     /></a>
 
@@ -123,7 +141,7 @@
 
   <a href="mailto:lunabitriz@gmail.com" title="Gmail">
     <img 
-      src="imgs/button-imgs/btn-email.svg" 
+      src="assets/button-assets/btn-email.svg" 
       alt="Gmail" height="28px"
     /></a>
 
@@ -133,7 +151,7 @@
 
   <a href="https://w.app/usydro" title="Whatsapp">
     <img 
-      src="imgs/button-imgs/btn-whatsapp.svg" 
+      src="assets/button-assets/btn-whatsapp.svg" 
       alt="Whatsapp" height="28px" hspace="2"
     /></a>
 
