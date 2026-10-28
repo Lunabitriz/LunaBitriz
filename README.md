@@ -24,7 +24,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/assets/dividers/dark-divider.svg">
   <source media="(prefers-color-scheme: light)" srcset="/assets/dividers/light-divider.svg">
-  <img alt="Divisor de seção" src="/assets/dividers/light-divider.svg">
+  <img alt="Separador" src="/assets/dividers/light-divider.svg" width="800" align="top">
 </picture>
 
 <img 
@@ -56,10 +56,10 @@
 </picture>
 
 <!-- Divider -->
-<picture>
+<picture height="1px">
   <source media="(prefers-color-scheme: dark)" srcset="/assets/dividers/dark-divider.svg">
   <source media="(prefers-color-scheme: light)" srcset="/assets/dividers/light-divider.svg">
-  <img alt="Divisor de seção" src="/assets/dividers/light-divider.svg">
+  <img alt="Separador" src="/assets/dividers/light-divider.svg" width="800" align="top">
 </picture>
 
 ### Main Stack
