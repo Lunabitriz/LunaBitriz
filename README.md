@@ -19,7 +19,6 @@
   <source media="(prefers-color-scheme: light)" srcset="assets/headers/light/about-me.svg">
   <img alt="About me" src="assets/headers/light/about-me.png" height="48">
 </picture>
-
 <!-- Divider -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/assets/dividers/dark-divider.svg">
@@ -54,7 +53,6 @@
   <source media="(prefers-color-scheme: light)" srcset="assets/headers/light/tech-stack.svg">
   <img alt="Skills & Technologies" src="assets/headers/light/tech-stack.png" height="48">
 </picture>
-
 <!-- Divider -->
 <picture height="1px">
   <source media="(prefers-color-scheme: dark)" srcset="/assets/dividers/dark-divider.svg">
@@ -62,7 +60,7 @@
   <img alt="Separador" src="/assets/dividers/light-divider.svg" width="800" align="top">
 </picture>
 
-<h3>Main Stack</h3>
+### Main Stack
 <img src="https://skillicons.dev/icons?i=react,nestjs,ts,prisma,nodejs" />
 
 <!-- Linguagens -->
