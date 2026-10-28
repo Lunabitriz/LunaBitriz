@@ -23,7 +23,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/assets/dividers/dark-divider.svg">
   <source media="(prefers-color-scheme: light)" srcset="/assets/dividers/light-divider.svg">
-  <img alt="Separador" src="/assets/dividers/light-divider.svg" width="800" align="top">
+  <img alt="Separador" src="/assets/dividers/light-divider.svg" align="top">
 </picture>
 
 <img 
@@ -57,7 +57,7 @@
 <picture height="1px">
   <source media="(prefers-color-scheme: dark)" srcset="/assets/dividers/dark-divider.svg">
   <source media="(prefers-color-scheme: light)" srcset="/assets/dividers/light-divider.svg">
-  <img alt="Separador" src="/assets/dividers/light-divider.svg" width="800" align="top">
+  <img alt="Separador" src="/assets/dividers/light-divider.svg" align="top">
 </picture>
 
 ### Main Stack
