@@ -20,7 +20,12 @@
   <img alt="About me" src="assets/headers/light/about-me.png" height="48">
 </picture>
 
-##
+<!-- Divider -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/assets/dividers/dark-divider.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/assets/dividers/light-divider.svg">
+  <img alt="Divisor de seção" src="/assets/dividers/light-divider.svg">
+</picture>
 
 <img 
   align="right" 
@@ -50,7 +55,12 @@
   <img alt="Skills & Technologies" src="assets/headers/light/tech-stack.png" height="48">
 </picture>
 
-##
+<!-- Divider -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/assets/dividers/dark-divider.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/assets/dividers/light-divider.svg">
+  <img alt="Divisor de seção" src="/assets/dividers/light-divider.svg">
+</picture>
 
 ### Main Stack
 <img src="https://skillicons.dev/icons?i=react,nestjs,ts,prisma,nodejs" />
@@ -82,8 +92,6 @@
   </picture>
 </div>
 
-##
-
 <p align="center">
   <img height="108em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lunabitriz&theme=tokyonight"/>
   <img  height="152em" src="https://github-readme-streak-stats.herokuapp.com/?user=lunabitriz&theme=tokyonight&hide_border=true" />
@@ -93,7 +101,6 @@
 ##
 
 <!-- SECTION: 🌸 Footer -->
-
 <div align="center">
   <img 
     src="assets/menhera.gif" 
@@ -110,48 +117,42 @@
 </div>
 
 <!-- SECTION: 🔗 Contacts -->
-
 <div align="center">
 
   <!-- Instagram -->
-
   <a href="https://instagram.com/lunabitriz.dev" title="Instagram">
     <img 
-      src="assets/button-assets/btn-instagram.svg" 
+      src="assets/buttons/btn-instagram.svg" 
       alt="Instagram" height="28px" hspace="2"
     /></a>
 
   <!-- LinkedIn -->
-
   <a href="https://www.linkedin.com/in/lunabitriz" title="LinkedIn">
     <img 
-      src="assets/button-assets/btn-linkedin.svg" 
+      src="assets/buttons/btn-linkedin.svg" 
       alt="LinkedIn" height="28px"
     /></a>
 
   <!-- Telegram -->
-
   <a href="https://t.me/lunabitriz" title="Telegram">
     <img 
-      src="assets/button-assets/btn-telegram.svg" 
+      src="assets/buttons/btn-telegram.svg" 
       alt="Telegram" height="28px"
     /></a>
 
   <!-- Gmail -->
-
   <a href="mailto:lunabitriz@gmail.com" title="Gmail">
     <img 
-      src="assets/button-assets/btn-email.svg" 
+      src="assets/buttons/btn-email.svg" 
       alt="Gmail" height="28px"
     /></a>
 
   <br/>
 
   <!-- WhatsApp -->
-
   <a href="https://w.app/usydro" title="Whatsapp">
     <img 
-      src="assets/button-assets/btn-whatsapp.svg" 
+      src="assets/buttons/btn-whatsapp.svg" 
       alt="Whatsapp" height="28px" hspace="2"
     /></a>
 
